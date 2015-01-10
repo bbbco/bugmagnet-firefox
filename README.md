@@ -77,3 +77,6 @@ extension](https://developer.chrome.com/extensions/getstarted#unpacked).
 ##Icon credit
 
 Magnet icon from [Woothemes Ultimate Icon Set by Nishan Sothilingam](http://iconfindr.com/1vSsaKB)
+
+##License
+[MIT License](LICENSE)
