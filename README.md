@@ -7,11 +7,12 @@ keep them handy and access them easily during exploratory testing sessions.
 
 ##Usage
 
-The easiest way to install the extension is by downloading the `bugmagnet-firefox.xpi`
-and installing through Firefox (will be released to AOM shortly). After
-installation, just right-click on any editable item on the page and you'll see a
-Bug Magnet submenu. Click an item there, and it will be inserted into the
-editable field. 
+The easiest way to install the extension is by downloading it from [the Mozilla
+Add-On Marketplace](https://addons.mozilla.org/en-US/firefox/addon/bugmagnet-firefox/). 
+Alternatively, you can also download the `bugmagnet-firefox.xpi` and install it manually
+through Firefox. After installation, just right-click on any editable item on the page
+and you'll see a Bug Magnet submenu. Click an item there, and it will be inserted into
+the editable field.
 
 
 <!--> Alternatively, you can load the extension from the source files - see _Running
